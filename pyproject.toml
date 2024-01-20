@@ -20,8 +20,6 @@ dependencies = [
 "pycryptodome==3.15.0"
 ]
 
-include = ["*.py", "*.pyi", "**/pyproject.toml"]
-
 [project.urls]
 Homepage = "https://github.com/cclgroupltd/ccl_chrome_indexeddb/"
 Issues = "https://github.com/cclgroupltd/ccl_chrome_indexeddb/issues"
